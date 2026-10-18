@@ -1,0 +1,16 @@
+supplier_name,product_count,avg_unit_cost
+Attachments,1,340.0
+Belts,1,320.0
+Brakes,1,1800.0
+Cabin,1,5600.0
+Cooling,1,7800.0
+Electrical,3,7183.333333333333
+Engine,4,36787.5
+Filters,2,635.0
+Hydraulic,6,20171.666666666668
+Lubricants,1,180.0
+Pins & Bushes,1,750.0
+Seals,2,605.0
+Sensors,1,2750.0
+Transmission,1,68500.0
+Undercarriage,4,14325.0
